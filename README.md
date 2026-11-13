@@ -9,6 +9,6 @@
 
 | Directory| Github repo| Status | Note |
 | :--- | :---: | ---: | ---: |
-| Item A | Item B | Item C |
+| grasp_det_sim:home | https://github.com/zzf-zzf/GG_CNN_Simulation | Item C |
 | Item A | Item B | Item C |
 | Git status | Git status | Git status |
